@@ -1,0 +1,5 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849176::Physical Name,1073742125::Definition,1075849148::Comments
+1075838979::141,Movie,Table,Movie,Movie,A movie from the movie catalog,A movie from the movie catalog
+1075838979::242,Customer,Table,Customer,Customer,Person who signed up to the eMovie Streaming Platform,Person who signed up to the eMovie Streaming Platform
+1075838979::262,Payment Method,Table,Payment Method,Payment Method,Payment information,Payment information
+1075838979::338,Customer Invoice,Table,Customer Invoice,Payment,Receipt of payment made by customer. ,Receipt of payment made by customer. 
